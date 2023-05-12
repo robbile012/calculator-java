@@ -1,0 +1,13 @@
+FAJL START :
+(8,2) zamenite ovu upotrebu Sistem.out ili Sistem.err logerom
+(19,4)zamenite ovu upotrebu Sistem.out ili Sistem.err logerom
+(6.9)preimenujte ovu lokalnu promenljivu da odgovara regularnom izrazu
+
+FAJL CALCULATOR
+(18,29)Preimenujte metodu „ToString“ da biste sprečili bilo kakav nesporazum/sukob sa metodom „toString“ definisanom u superklasi „java.lang.Object“.
+(4,13) dodajte privatnog izvođača da biste sakrili implicitni javni
+(18,28)preimenujte ovu lokalnu promenljivu da odgovara regularnom izrazu
+(24,25)preimenujte ovu lokalnu promenljivu da odgovara regularnom izrazu
+(70,28)одмах вратите овај израз уместо да га додељујете привременој променљивој "тектРесулт"
+(74,24)preimenujte ovu lokalnu promenljivu da odgovara regularnom izrazu
+(183,12)уклоните овај сувишни скок
